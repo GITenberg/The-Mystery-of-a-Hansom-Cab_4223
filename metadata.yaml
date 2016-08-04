@@ -1,0 +1,31 @@
+_repo: The-Mystery-of-a-Hansom-Cab_4223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, Fergus
+    aliases:
+    - Hume, Ferguson Wright
+    - Hume, Fergus W. (Ferguson Wright)
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '1057'
+    url: http://www.gutenberg.org/2009/agents/1057
+    wikipedia: http://en.wikipedia.org/wiki/Fergus_Hume
+description: Melbourne, late 19th century. A crime has been committed by an unknown
+  assassin, within a short distance of the principal streets of this great city. The
+  author weaves a sticky web of intrigue as the reader tries to find a way out of
+  this impenetrable murder mystery.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcc 'PR'
+- GITenberg
+title: The Mystery of a Hansom Cab
+url: http://www.gutenberg.org/ebooks/4223
