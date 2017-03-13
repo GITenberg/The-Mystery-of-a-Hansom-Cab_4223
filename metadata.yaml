@@ -1,5 +1,8 @@
 _repo: The-Mystery-of-a-Hansom-Cab_4223
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hume, Fergus
@@ -15,6 +18,8 @@ description: Melbourne, late 19th century. A crime has been committed by an unkn
   assassin, within a short distance of the principal streets of this great city. The
   author weaves a sticky web of intrigue as the reader tries to find a way out of
   this impenetrable murder mystery.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4223#The-Mystery-of-a-Hansom-Cab
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
